@@ -1,1 +1,0 @@
-# AWS-MS-Corporate-ConfigServer
